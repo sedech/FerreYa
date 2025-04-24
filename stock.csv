@@ -1,0 +1,11 @@
+producto,stock_actual,precio,categoria
+Tornillo M6,150,0.15,Herrajes
+Tornillo M8,200,0.18,Herrajes
+Clavo de 2 pulgadas,100,0.10,Clavos y clavos finos
+Clavo de 3 pulgadas,80,0.12,Clavos y clavos finos
+Bulón 1/4",120,0.25,Bulones
+Bulón 1/2",90,0.30,Bulones
+Pintura Blanca,50,2.50,Pinturas
+Pintura Roja,60,2.60,Pinturas
+Martillo 500g,30,5.00,Herramientas
+Destornillador Phillips,75,1.80,Herramientas
